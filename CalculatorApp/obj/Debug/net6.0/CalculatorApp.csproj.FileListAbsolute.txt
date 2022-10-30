@@ -1,0 +1,15 @@
+D:\test\ideagentechtest\calculatorApp\obj\Debug\net6.0\CalculatorApp.csproj.AssemblyReference.cache
+D:\test\ideagentechtest\calculatorApp\obj\Debug\net6.0\CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\test\ideagentechtest\calculatorApp\obj\Debug\net6.0\CalculatorApp.AssemblyInfoInputs.cache
+D:\test\ideagentechtest\calculatorApp\obj\Debug\net6.0\CalculatorApp.AssemblyInfo.cs
+D:\test\ideagentechtest\calculatorApp\obj\Debug\net6.0\CalculatorApp.csproj.CoreCompileInputs.cache
+D:\test\ideagentechtest\CalculatorApp\bin\Debug\net6.0\CalculatorApp.exe
+D:\test\ideagentechtest\CalculatorApp\bin\Debug\net6.0\CalculatorApp.deps.json
+D:\test\ideagentechtest\CalculatorApp\bin\Debug\net6.0\CalculatorApp.runtimeconfig.json
+D:\test\ideagentechtest\CalculatorApp\bin\Debug\net6.0\CalculatorApp.dll
+D:\test\ideagentechtest\CalculatorApp\bin\Debug\net6.0\CalculatorApp.pdb
+D:\test\ideagentechtest\CalculatorApp\obj\Debug\net6.0\CalculatorApp.dll
+D:\test\ideagentechtest\CalculatorApp\obj\Debug\net6.0\refint\CalculatorApp.dll
+D:\test\ideagentechtest\CalculatorApp\obj\Debug\net6.0\CalculatorApp.pdb
+D:\test\ideagentechtest\CalculatorApp\obj\Debug\net6.0\CalculatorApp.genruntimeconfig.cache
+D:\test\ideagentechtest\CalculatorApp\obj\Debug\net6.0\ref\CalculatorApp.dll
